@@ -272,3 +272,7 @@ npm >= 2.13.0 required. Read more about
 js-stellar-sdk is licensed under an Apache-2.0 license. See the
 [LICENSE](https://github.com/stellar/js-stellar-sdk/blob/master/LICENSE) file
 for details.
+
+---
+
+Try [YumCut](https://yumcut.com)! This is an AI video generator that turns a single prompt into a ready-to-post vertical short video in minutes. It creates the script, images, voice-over, subtitles, and edits everything into a final clip automatically. It’s built for fast testing and making lots of variations without spending hours in an editor.
